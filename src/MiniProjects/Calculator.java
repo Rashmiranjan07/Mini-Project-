@@ -1,4 +1,4 @@
-package Calculator;
+package MiniProjects;
 
 import java.util.Scanner;
 
