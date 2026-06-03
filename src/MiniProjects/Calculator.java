@@ -67,6 +67,5 @@ public class Calculator {
 				System.out.println("Invalid Operator! Please try again.");
 			}
 		}
-
 	}
 }
