@@ -52,6 +52,5 @@ public class StudentGradeGenerator {
 		System.out.println("Grade        : " + grade);
 		System.out.println("=================================");
 
-
 	}
 }
