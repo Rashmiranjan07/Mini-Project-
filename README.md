@@ -27,7 +27,6 @@ These projects are suitable for:
 
 ---
 
-
 ## 👨‍💻 Author
 
 **Rashmiranjan Shaw**
