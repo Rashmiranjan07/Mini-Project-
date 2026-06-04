@@ -33,8 +33,6 @@ If you found this repository helpful:
 
 - Star ⭐ the repository
 - Fork 🍴 the repository
-
-
 ---
 ## 📜 License
 This project is created for educational and learning purposes.
