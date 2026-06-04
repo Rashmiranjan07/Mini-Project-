@@ -13,9 +13,7 @@ These projects are suitable for:
 - Academic Mini Projects
 - Placement Preparation
 - OOP Concept Practice
-
 ---
-
 ## 🛠️ Technologies Used
 
 - Java
@@ -24,17 +22,13 @@ These projects are suitable for:
 - Exception Handling
 - Scanner Class
 - IntelliJ IDEA / Eclipse / VS Code
-
 ---
-
 ## 👨‍💻 Author
 
 **Rashmiranjan Shaw**
-
 ---
 
 ## ⭐ Support
-
 If you found this repository helpful:
 
 - Star ⭐ the repository
@@ -42,7 +36,5 @@ If you found this repository helpful:
 - Share it with fellow developers
 
 ---
-
 ## 📜 License
-
 This project is created for educational and learning purposes.
