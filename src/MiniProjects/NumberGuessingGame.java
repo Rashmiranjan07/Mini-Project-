@@ -29,6 +29,6 @@ public class NumberGuessingGame {
 			}
 
 		} while (guess != secretNumber);
-		//scanner.close();
+
 	}
 }
