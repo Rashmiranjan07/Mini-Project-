@@ -10,7 +10,7 @@ public class Calculator {
 
 		while (true) {
 
-			System.out.print("Enter Operator (+, -, *, /, % && x to exit): ");
+			System.out.print("Enter Operator (+, -, *, /, % && x to exit ): ");
 			char op = in.next().trim().charAt(0);
 
 			if (op == 'x' || op == 'X') {
