@@ -54,7 +54,7 @@ public class PasswordGenerator {
         }
 
         System.out.println("\nGenerated Password: " + password);
-
+        
         sc.close();
     }
 }
