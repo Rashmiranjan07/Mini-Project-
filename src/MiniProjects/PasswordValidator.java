@@ -20,6 +20,8 @@ public class PasswordValidator {
 			System.out.println("❌ Password must be at least 8 characters long.");
 			return false;
 		}
+		boolean hasUpper=false;
+		boolean hasLower= false;
 		return false;
 	}
 
