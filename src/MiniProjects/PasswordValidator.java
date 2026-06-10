@@ -27,6 +27,21 @@ public class PasswordValidator {
 		for( char ch:password.toCharArray()) {
 			if(Character.isUpperCase(ch))
 				hasUpper=true;
+			else if ( Character.isLowerCase(ch)) 
+				hasLower=true;
+			else if(Character.isDigit(ch))
+				hasDigit=true;
+			else 
+				hasSpecial=true;
+				
+			
+		}
+		
+		if(!hasUpper) {
+			System.out.println("❌ Password must contain at least one uppercase letter.");
+		} 
+		if (!hasLower) {
+			
 		}
 		return false;
 	}
