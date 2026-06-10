@@ -22,6 +22,12 @@ public class PasswordValidator {
 		}
 		boolean hasUpper=false;
 		boolean hasLower= false;
+		boolean hasDigit=false;
+		boolean hasSpecial=false;
+		for( char ch:password.toCharArray()) {
+			if(Character.isUpperCase(ch))
+				hasUpper=true;
+		}
 		return false;
 	}
 
