@@ -15,9 +15,13 @@ public class PasswordValidator {
 		}
 	}
 
-	private static boolean isValidPassword(String password) {
-		// TODO Auto-generated method stub
+	public static boolean isValidPassword(String password) {
+		if(password.length()<8) {
+			System.out.println("❌ Password must be at least 8 characters long.");
+			return false;
+		}
 		return false;
 	}
 
 }
+
