@@ -3,6 +3,7 @@ package MiniProjects;
 import java.util.Scanner;
 
 public class PasswordValidator {
+	
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter a password");
@@ -20,10 +21,12 @@ public class PasswordValidator {
 			System.out.println("❌ Password must be at least 8 characters long.");
 			return false;
 		}
+		
 		boolean hasUpper = false;
 		boolean hasLower = false;
 		boolean hasDigit = false;
 		boolean hasSpecial = false;
+		
 		for (char ch : password.toCharArray()) {
 			if (Character.isUpperCase(ch))
 				hasUpper = true;
