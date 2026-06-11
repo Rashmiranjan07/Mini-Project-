@@ -23,8 +23,8 @@ These projects are suitable for:
 - Scanner Class
 - IntelliJ IDEA / Eclipse / VS Code
 ---
-## 👨‍💻 Author
 
+## 👨‍💻 Author
 **Rashmiranjan Shaw**
 ---
 
